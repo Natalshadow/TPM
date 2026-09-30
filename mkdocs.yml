@@ -1,7 +1,10 @@
-site_name: Documentation IT
-site_description: Documentation technique
+site_name: VM Windows 11
+site_description: Installation Windows 11 VMWare
 site_author: Gauthier
 
 theme:
   name: material
   language: fr
+
+extra_css:
+  - stylesheets/print.css

@@ -1,0 +1,28 @@
+﻿@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top {
+    display: none !important;
+  }
+
+  .md-main__inner {
+    margin: 0;
+  }
+
+  .md-content {
+    max-width: none;
+  }
+
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3 {
+    break-after: avoid;
+  }
+
+  .md-typeset table,
+  .md-typeset pre {
+    break-inside: avoid;
+  }
+}
