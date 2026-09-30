@@ -126,13 +126,13 @@ Correspondance physique / virtuel : CPU → vCPU · RAM → RAM attribuée · SS
 ## 9. Captures d'écran
 
 **9.1 — VMware Workstation, VM visible dans la bibliothèque**
-![VMware Workstation avec CLI-WIN-MEN-01](img/01-vmware-bibliotheque.png)
+
 
 **9.2 — Paramètres CPU / RAM**
-![Paramètres CPU et RAM](img/02-cpu-ram.png)
+
 
 **9.3 — Configuration réseau (NAT)**
-![Carte réseau en NAT sur VMnet8](img/03-reseau-nat.png)
+
 
 ![Alt Text](images/vm_summary.PNG)
 
