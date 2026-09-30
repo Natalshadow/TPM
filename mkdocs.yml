@@ -1,0 +1,7 @@
+site_name: Documentation IT
+site_description: Documentation technique
+site_author: Gauthier
+
+theme:
+  name: material
+  language: fr
